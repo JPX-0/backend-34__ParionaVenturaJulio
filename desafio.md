@@ -10,4 +10,4 @@
   - Se agregan nuevos estilos:
     > ubicación: "./public/estilos.css"
   - Commit de referencia:
-    > ubicación: "#"
+    > link: "https://github.com/JPX-0/backend-34__ParionaVenturaJulio/commit/0e919419ad7035ee2b8dd799650210e4608896bc"
